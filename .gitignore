@@ -1,0 +1,58 @@
+# Flutter/Dart/Pub related
+.dart_tool/
+.packages
+.pub/
+pubspec.lock
+build/
+flutter_*.png
+
+# Android related
+android/.gradle/
+android/app/debug/
+android/app/profile/
+android/gradle/
+android/gradle-wrapper.jar
+android/local.properties
+
+# iOS related
+ios/Flutter/.symlinks/
+ios/Pods/
+ios/Flutter/flutter_export_environment.sh
+ios/Flutter/Flutter.framework
+ios/Flutter/Flutter.podspec
+ios/Flutter/Flutter.podspec.lock
+ios/.symlinks/
+ios/Flutter/Flutter.xcframework
+
+# macOS related
+macos/Flutter/Flutter.framework
+macos/Flutter/Flutter.podspec
+macos/Flutter/flutter_export_environment.sh
+
+# Xcode related
+*.xcworkspace
+*.xcuserstate
+*.xcuserdatad
+*.moved-aside
+*.xcscheme
+*.xcodeproj
+*.xcodeproj/project.xcworkspace/
+*.xcodeproj/xcuserdata/
+*.xcodeproj/xcshareddata/WorkspaceSettings.xcsettings
+
+# User-specific files
+*.DS_Store
+
+# Windows related
+*.cab
+*.msi
+*.iso
+*.lnk
+
+# Other
+*.log
+*.tmp
+*.swp
+*.swo
+*.sublime-project
+*.sublime-workspace
